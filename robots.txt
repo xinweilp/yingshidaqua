@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xinweilp.github.io/yingshidaqua/sitemap.xml
